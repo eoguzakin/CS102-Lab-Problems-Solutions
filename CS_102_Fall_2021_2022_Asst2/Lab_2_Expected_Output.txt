@@ -1,0 +1,91 @@
+Enter the number of documents:
+3
+Enter the name of the document 1:
+text1.txt
+Enter the name of the document 2:
+text2.txt
+Enter the name of the document 3:
+text3.txt
+Menu Options
+1. Display the frequency of a word
+2. Display the most frequent words and their number of appearances in each document
+3. Calculate the tf-idf of a word
+Enter the option (enter 4 to quit):
+3
+Enter the word which you want to calculate tf-idf:
+hut
+Document 1
+ word: hut
+ tf-idf: 0.003526
+Document 2
+ word: hut
+ tf-idf: 0.000000
+Document 3
+ word: hut
+ tf-idf: 0.002917
+Enter the option (enter 4 to quit):
+2
+Document 1
+ word:and
+ number of appearance: 8
+Document 2
+ word:to
+ number of appearance: 6
+Document 3
+ word:the
+ number of appearance: 10
+Enter the option (enter 4 to quit):
+1
+Enter the word which you want to find the frequency:
+simon
+Document 1
+ word: simon
+ term frequency: 0.017391
+Document 2
+ word: simon
+ term frequency: 0.000000
+Document 3
+ word: simon
+ term frequency: 0.021583
+Enter the option (enter 4 to quit):
+1
+Enter the word which you want to find the frequency:
+work
+Document 1
+ word: work
+ term frequency: 0.017391
+Document 2
+ word: work
+ term frequency: 0.000000
+Document 3
+ word: work
+ term frequency: 0.000000
+Enter the option (enter 4 to quit):
+1
+Enter the word which you want to find the frequency:
+and
+Document 1
+ word: and
+ term frequency: 0.069565
+Document 2
+ word: and
+ term frequency: 0.034884
+Document 3
+ word: and
+ term frequency: 0.021583
+Enter the option (enter 4 to quit):
+3
+Enter the word which you want to calculate tf-idf:
+sadfasfsaddsaf
+Document 1
+ word: sadfasfsaddsaf
+ tf-idf: 0.000000
+Document 2
+ word: sadfasfsaddsaf
+ tf-idf: 0.000000
+Document 3
+ word: sadfasfsaddsaf
+ tf-idf: 0.000000
+Enter the option (enter 4 to quit):
+4
+Done!
